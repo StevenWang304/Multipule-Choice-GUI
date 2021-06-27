@@ -1,0 +1,85 @@
+{
+  "question": [
+    "Q1. How many oceans does Canada touch?",
+    "Q2. Which great lake is the largest lake?",
+    "Q3. Which provinces has most population?",
+    "Q4. How long is the longest river in Canada?",
+    "Q5. Which of the following elements is not mined in Canada?",
+    "Q6. Skunks are not native to any part of:",
+    "Q7. How long is Canada's coastline?",
+    "Q8. Which following province is a officially bilingual province?",
+    "Q9. Where is the first Tim Horton's opened",
+    "Q10. What is the tallest mountain peak in Canada?"
+  ],
+  "answer": [
+    3,
+    4,
+    1,
+    3,
+    1,
+    1,
+    3,
+    4,
+    2,
+    1
+  ],
+  "options": [
+
+    ["One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    ["Lake Erie",
+      "Lake Michigan",
+      "Lake Ontario",
+      "Lake Superior"
+    ],
+    ["Quebec",
+      "Ontario",
+      "British Columbia",
+      "Alberta"
+    ],
+    ["5,935 Km",
+      "4,798 km",
+      "4,241 km",
+      "3,958 km"
+    ],
+    [
+      "Aluminum",
+      "Copper",
+      "Molybdenum",
+      "zinc"
+    ],
+    [
+      "Newfoundland and Labrador",
+      "British Columbia",
+      "Northwest Territories",
+      "Saskatchewan"
+    ],
+    [
+      "40,075 km",
+      "54,761 km",
+      "243,792 km",
+      "384,403 km"
+    ],
+    [
+      "Manitoba",
+      "Quebec",
+      "Ontario",
+      "New Brunswick"
+    ],
+    [
+      "London",
+      "Hamilton",
+      "Toronto",
+      "Collingwood"
+    ],
+    [
+      "Mount Logan, Yukon",
+      "Mount Fairweather, British Columbia",
+      "North Twin, Alberta",
+      "Mount Caubvick, Newfoundland"
+    ]
+  ]
+}
